@@ -15,7 +15,7 @@
   <img alt="dev.finances" src=".github/git-images/home.JPG" width="100%">
 </p>
 
-## 🚀 Tecnologias utilizadas
+## ⚙️ Tecnologias utilizadas
 
 - HTML
 - CSS

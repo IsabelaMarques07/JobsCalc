@@ -15,9 +15,7 @@
   <img alt="dev.finances" src=".github/git-images/home.JPG" width="100%">
 </p>
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Tecnologias utilizadas
 
 - HTML
 - CSS
@@ -27,18 +25,34 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
-## 💻 Projeto
+## 💰 Projeto
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O JobsCalc é uma aplicação que calcula o valor de trabalhos freelance de acordo com o preço/hora do freelancer. É possível criar e excluir trabalhos, além de poder editar o perfil e os próprios projetos.
+Foi construído durante a 2ª Edição da maratona Discover da Rocketseat, com o objetivo de colocar em prática conceitos aprendidos durante aulas e trilhas da Discover.
 
-## 🔖 Layout
+## 🖥️ Telas da aplicação
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+### Home
+<p align="center">
+  <img alt="dev.finances" src=".github/git-images/home.JPG" width="100%">
+</p>
+
+### Adicionar Jobs
+<p align="center">
+  <img alt="dev.finances" src=".github/git-images/add-job.JPG" width="100%">
+</p>
+
+### Editar Jobs
+<p align="center">
+  <img alt="dev.finances" src=".github/git-images/edit-job.JPG" width="100%">
+</p>
+
+### Perfil
+<p align="center">
+  <img alt="dev.finances" src=".github/git-images/perfil.JPG" width="100%">
+</p>
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
